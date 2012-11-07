@@ -25,7 +25,9 @@ An analysis incorporating the weights of the cats is included in the examples (D
 CD Woody, E Zotova, and E Gruen (2000). Multiple representations of information in the primary auditory cortex of cats: I. stability and change in slow components of unit activity after conditioning with a click conditioned stimulus. Brain Research, 868, 56-65.
 }
 \references{
-DM Diez, FP Schoenberg, and CD Woody (as of April 2010, in review). Analysis of Neuronal Responses to Stimuli in Cats Using Point Process Prototypes.
+Diez DM, Schoenberg FP, and Woody CD (2012). Algorithms for computing spike time
+distance and point process prototypes with application to feline neuronal responses to
+acoustic stimuli. Journal of Neuroscience Methods 203(1):186-192.
 }
 \examples{
 data(neurNaive)

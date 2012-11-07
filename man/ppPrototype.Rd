@@ -58,7 +58,9 @@ A list containing the following items:
 \references{
 KE Tranbarger and FP Schoenberg (2010). On the computation and application of point process prototypes.  Open Applied Informatics Journal 4, 1-9. 
 
-DM Diez, FP Schoenberg, and CD Woody (as of May 2010, in review). Analysis of Neuronal Responses to Stimuli in Cats Using Point Process Prototypes.
+Diez DM, Schoenberg FP, and Woody CD (2012). Algorithms for computing spike time
+distance and point process prototypes with application to feline neuronal responses to
+acoustic stimuli. Journal of Neuroscience Methods 203(1):186-192.
 }
 \author{
 DM Diez

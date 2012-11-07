@@ -1,5 +1,5 @@
-ed0e3e969f0d6c4799d5ab39532f0212 *DESCRIPTION
-9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+98fd53d2f9a4c5fae18d64b6ea91b7a7 *DESCRIPTION
+b7a0d1a253887eb39510a4e5af191b98 *NAMESPACE
 9eab9cd685372e5485f2dcd04938c31d *R/plot.ppColl.R
 9aafb35c606de727dbd517ba7ec20429 *R/plot.ppPrototype.R
 048b9f44818edb3ce0f2ecd61ed9f326 *R/plot.stDist.R
@@ -24,13 +24,13 @@ f996083cd7906c683de71cc40d1bea05 *data/pattEx1.rda
 a80e0878baa61169b58a038ee6b99dda *data/pattEx2.rda
 a32d02da706a6db6230d7933abf826ce *man/collEx1.Rd
 99ff8f72d04f3e7d47b46a20148765a9 *man/collEx2.Rd
-5c3a7144403d0203fda1d84ccc911a8d *man/neurBd.Rd
-59c7053b55654666a704a8af3be33a71 *man/neurCond.Rd
-9bf7ee472eae70c3fbbe741b634e3c21 *man/neurNaive.Rd
+349b211a5f06442fe7fb622654ceb5cd *man/neurBd.Rd
+bae98a0ff1ddf7d7089814613d43bb19 *man/neurCond.Rd
+1f4e23509393f577de5d095ad931c893 *man/neurNaive.Rd
 bc3ca671bef2bec8511b90789a60f687 *man/pattEx1.Rd
 c137af7b8a7275a30399a9cfc55657ab *man/pattEx2.Rd
 9e05e75a4a14f129f5240b8b6f73e58b *man/ppColl.Rd
-eea1aa5f12973182dd38e09170d5159d *man/ppMeasures-package.Rd
-aeaecef6cbbf563adae198e261b51e5b *man/ppPrototype.Rd
-f53f4cf9bcd51f1a81453294bb3bc556 *man/stDist.Rd
+9e780cf4fc0152131d058c368b6a68fd *man/ppMeasures-package.Rd
+061908944ab038057e7cae4862741eaf *man/ppPrototype.Rd
+dfcb564d0b4de3342671dec5ebbfb592 *man/stDist.Rd
 4c11dd03ce2b4d883c9e17b4c614507e *src/ppMeasures.c
